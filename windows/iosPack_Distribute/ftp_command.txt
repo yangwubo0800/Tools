@@ -1,0 +1,10 @@
+open IPxxx
+userNamexxx
+passWdxxx
+
+put ./BaseWebviewApp.ipa/BaseWebviewApp.ipa
+
+
+put ./BaseWebviewApp.ipa/manifest.plist
+
+quit
